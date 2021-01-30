@@ -22,8 +22,8 @@ Source: Book Chapter 4.2 Page 131
 
 2. Which Type of control is based on the identity of the requestor and the access rules state what a requestor can or cannot do?
 
-- A) Mandatory Access Control (MAC)
-- B) Role-based access control (RBAC)
+- [ ] A) Mandatory Access Control (MAC)
+- [ ] B) Role-based access control (RBAC)
 - [ ] C) Discretionary access control (DAC)
 - [ ] D) Attribute-based access control (ABAC)
 
