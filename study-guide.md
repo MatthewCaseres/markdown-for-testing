@@ -2,6 +2,7 @@
 
 ## DAC
 
+***
  
 1. Which Type of control is based on the identity of the requestor and the access rules state what a requestor can or cannot do?
 
@@ -17,6 +18,7 @@ C. This policy is termed discretionary because an entity might have access right
 Source: Book Chapter 4.2 Page 131
 </details>
 
+***
 
 2. Which Type of control is based on the identity of the requestor and the access rules state what a requestor can or cannot do?
 
